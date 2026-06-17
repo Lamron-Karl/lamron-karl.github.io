@@ -122,7 +122,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: Lamron-Karl/lamron-karl.github.io# <gh-username>/<repo>
+    repo: Lamron-Karl/lamron-karl.github.io # <gh-username>/<repo>
     repo_id: R_kgDOS9Hqyw
     category: General
     category_id: DIC_kwDOS9Hqy84C_UbH
