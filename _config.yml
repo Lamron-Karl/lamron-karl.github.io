@@ -101,11 +101,11 @@ theme_mode: light # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pixabay.com/images/download/matthardy-water-4119268_1920.jpg
+avatar: https://github.com/Lamron-Karl.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: https://pixabay.com/images/download/matthardy-water-4119268_1920.jpg
+social_preview_image: https://github.com/Lamron-Karl.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true

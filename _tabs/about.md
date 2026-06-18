@@ -6,15 +6,12 @@ order: 4
 
 ## Lamron
 
-### Infomation
+### Infomation
 
-birth: 2000.11.11
-
-email: Lamron_Karl@outlook.com
-
-github: https://github.com/Lamron-Karl
-
-wechat: relamron
+- **birth**: 2000.11.11
+- **email**: Lamron\_Karl@outlook.com
+- **github**: <https://github.com/Lamron-Karl>
+- **wechat**: relamron
 
 ### LifeTimeline
 
