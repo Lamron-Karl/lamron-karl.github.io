@@ -101,7 +101,7 @@ theme_mode: light # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/Lamron-Karl.png
+avatar: https://pic1.zhimg.com/v2-83b389119dff776e4d06b4fb71503220_1440w.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
